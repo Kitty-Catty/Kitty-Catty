@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello there,
+It's <code><span class="name1">Myo</span></code>
+
+> - A Cat🐾<br>
+> - A full-stack web application developer{#identifier .red}
+
+### Reach me via <a href="https://wa.me/94714842036" target="_blank">WhatsApp</a>
 
 <!--
-**Kitty-Catty/Kitty-Catty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-📫 Reach me via WhatsApp: 94713621923
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
+
 -->
