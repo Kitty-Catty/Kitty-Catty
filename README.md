@@ -8,7 +8,7 @@
 
 ## Languages 📚
 
-![Hello](languages.svg)
+<img src="./languages.svg" height="200px" alt="Languages" />
 
 ## Contact📡
 
