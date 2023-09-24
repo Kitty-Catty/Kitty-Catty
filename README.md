@@ -4,16 +4,11 @@
 
 > Full-Stack web developer 💻<br>
 > API developer ⚙<br>
-> And a <span style="color:ff00ff">Cat</span> 🐾
+> And a $\textrm{\color{#ff00ff} \ Cat}$ 🐾
 
 ## Languages 📚
 
-> -   [ + ] <span style="color:#db5f0c;font-weight:700">HTML</span><br>
-> -   [ + ] <span style="color:#0dcce5;font-weight:700">CSS</span><br>
-> -   [ + ] <span style="color:#60e50d;font-weight:700">NodeJS</span> <br>
-> -   [ + ] <span style="color:#0098ff;font-weight:700">Pyt</span><span style="color:#decd08;font-weight:700">hon</span><br>
-> -   [ + ] <span style="color:#69aeca;font-weight:700">MYSQL</span><br>
-> -   [ -- ] <span style="color:#ffffff;font-weight:700">C++</span>
+![Hello](languages.svg)
 
 ## Contact📡
 

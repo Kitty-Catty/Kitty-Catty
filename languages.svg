@@ -1,0 +1,41 @@
+<svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%" x="0" y="0">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                div#bg {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    height: 100%;
+                    width: 100%;
+                }
+                ul {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    position: relative;
+                    width: 100%;
+                    height: 100%;
+                    background-color: #000000;
+                }
+                li {
+                    font-size: 10px;
+                    font-family: monospace;
+                    font-weight: 600;
+                    line-height: 10px;
+                    padding: 0.3em;
+                }
+            </style>
+            <div id="bg">
+                <ul>
+                    <li style="color:#60e50d">[ + ] NodeJS</li>
+                    <li style="color:#db5f0c">[ + ] HTML</li>
+                    <li style="color:#0dcce5">[ + ] CSS</li>
+                    <li style="color:#decd08"><span style="color:#0098ff">[ + ] Pyt</span><span style="color:#decd08">hon</span></li>
+                    <li style="color:#69aeca">[ + ] MYSQL</li>
+                    <li style="color:#ffffff">[ - ] C++</li>
+                </ul>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
