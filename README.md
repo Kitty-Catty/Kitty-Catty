@@ -6,9 +6,9 @@
 > API developer ⚙<br>
 > And a $\textrm{\color{#ff00ff} \ Cat}$ 🐾
 
-## Languages 📚
+<!-- ## Languages 📚
 
-<img src="./languages.svg" height="200px" alt="Languages" />
+<img src="./languages.svg" height="200px" alt="Languages" /> -->
 
 ## Contact📡
 
