@@ -11,5 +11,5 @@
 ## Contact📬
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-grey?logo=whatsapp)](https://wa.me/94774842036)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Replit](https://img.shields.io/badge/Replit-grey?logo=replit)](https://replit.com/@Cat-Boy/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- [![Replit](https://img.shields.io/badge/Replit-grey?logo=replit)](https://replit.com/@Cat-Boy/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 [![Myo](https://img.shields.io/badge/Myo-7F2157)](https://home.cat-boy.repl.co)
